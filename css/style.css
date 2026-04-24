@@ -1,0 +1,28 @@
+.head{
+	min-height: 10px;
+	background-color: red;
+}
+.container{
+	overflow: hidden;
+}
+
+.blog{
+	float: left;
+	width: 70%;
+	height: 150px;
+	background-color: red;
+}
+.contact{
+	float: right;
+	width: 25%;
+	height: 150px;
+	background-color: beige;
+
+}
+
+.foot{
+	clear: both;
+	height: 100px;
+	background-color: black;
+
+}
